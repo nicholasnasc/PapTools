@@ -1,0 +1,69 @@
+{
+  "name": "temporal-documentation",
+  "version": "0.0.0",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "start": "docusaurus start",
+    "build": "docusaurus build",
+    "serve": "docusaurus serve",
+    "deploy": "docusaurus deploy"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "dependencies": {
+    "@docusaurus/core": "^3.8.1",
+    "@docusaurus/faster": "^3.8.1",
+    "@docusaurus/mdx-loader": "^3.8.1",
+    "@docusaurus/module-type-aliases": "^3.8.1",
+    "@docusaurus/plugin-content-docs": "^3.8.1",
+    "@docusaurus/preset-classic": "^3.8.1",
+    "@docusaurus/theme-common": "^3.8.1",
+    "@docusaurus/types": "^3.8.1",
+    "@easyops-cn/docusaurus-search-local": "^0.52.2",
+    "@mdx-js/react": "^3.0.0",
+    "@playwright/test": "^1.47.0",
+    "@tabler/icons-react": "^3.36.0",
+    "@types/react": "^19.1.0",
+    "@types/react-dom": "^19.1.0",
+    "ajv": "^8.17.1",
+    "algoliasearch": "^5.40.0",
+    "chart.js": "^4.4.1",
+    "clsx": "^1.1.1",
+    "comlink": "^4.4.2",
+    "concurrently": "^8.2.2",
+    "js-yaml": "^4.1.1",
+    "path": "^0.12.7",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-icons": "^5.5.0",
+    "react-markdown": "^10.1.0",
+    "react-player": "^2.6.0",
+    "rehype-katex": "7",
+    "remark-math": "6",
+    "snipsync": "^1.12.0",
+    "tar-fs": "^2.1.4",
+    "uuid": "^11.1.0",
+    "wait-on": "^7.2.0",
+    "webpack-font-preload-plugin": "^1.5.0",
+    "yaml": "^2.8.1"
+  },
+  "devDependencies": {
+    "@types/node": "^24.5.1",
+    "@types/yaml": "^1.9.7",
+    "eslint": "^7.32.0",
+    "eslint-plugin-react": "^7.23.2",
+    "husky": "^9.1.7",
+    "hyperlink": "^5.0.4"
+  }
+}

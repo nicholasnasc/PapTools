@@ -1,0 +1,15 @@
+{
+  "id": "PROVEDORES_FIX_CONVERSAO_IBGE",
+  "title": "Correção - Erro de Conversão no JOIN entre Provedores e Cidades",
+  "description": "❌ Problema",
+  "source": "@site/docs/PROVEDORES_FIX_CONVERSAO_IBGE.md",
+  "sourceDirName": ".",
+  "slug": "/PROVEDORES_FIX_CONVERSAO_IBGE",
+  "permalink": "/PROVEDORES_FIX_CONVERSAO_IBGE",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nicholasnasc/documentation/edit/main/docs/docs/PROVEDORES_FIX_CONVERSAO_IBGE.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

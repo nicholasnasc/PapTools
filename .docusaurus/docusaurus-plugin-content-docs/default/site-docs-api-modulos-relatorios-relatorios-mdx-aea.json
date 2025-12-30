@@ -1,0 +1,26 @@
+{
+  "id": "api/modulos/Relatorios/relatorios",
+  "title": "Relatorios",
+  "description": "Conteudo em construção.",
+  "source": "@site/docs/api/modulos/Relatorios/relatorios.mdx",
+  "sourceDirName": "api/modulos/Relatorios",
+  "slug": "/api/modulos/Relatorios/",
+  "permalink": "/api/modulos/Relatorios/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nicholasnasc/documentation/edit/main/docs/docs/api/modulos/Relatorios/relatorios.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Relatorios"
+  },
+  "sidebar": "documentation",
+  "previous": {
+    "title": "Lista de Rotas",
+    "permalink": "/api/modulos/Rotas/lista"
+  },
+  "next": {
+    "title": "Provedores",
+    "permalink": "/api/modulos/Provedores/"
+  }
+}

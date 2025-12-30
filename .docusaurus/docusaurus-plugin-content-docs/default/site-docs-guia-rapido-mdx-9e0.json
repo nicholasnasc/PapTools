@@ -1,0 +1,24 @@
+{
+  "id": "guia-rapido",
+  "title": "guia-rapido",
+  "description": "",
+  "source": "@site/docs/guia-rapido.mdx",
+  "sourceDirName": ".",
+  "slug": "/guia-rapido",
+  "permalink": "/guia-rapido",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nicholasnasc/documentation/edit/main/docs/docs/guia-rapido.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "documentation",
+  "previous": {
+    "title": "Introdução",
+    "permalink": "/introducao/"
+  },
+  "next": {
+    "title": "conceitos-fundamentais",
+    "permalink": "/conceitos-fundamentais"
+  }
+}

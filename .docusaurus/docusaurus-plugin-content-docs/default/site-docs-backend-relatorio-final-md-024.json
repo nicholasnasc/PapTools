@@ -1,0 +1,15 @@
+{
+  "id": "backend/RELATORIO_FINAL",
+  "title": "✅ PROBLEMA RESOLVIDO - Relatório Final",
+  "description": "🎉 Status: TUDO FUNCIONANDO!",
+  "source": "@site/docs/backend/RELATORIO_FINAL.md",
+  "sourceDirName": "backend",
+  "slug": "/backend/RELATORIO_FINAL",
+  "permalink": "/backend/RELATORIO_FINAL",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nicholasnasc/documentation/edit/main/docs/docs/backend/RELATORIO_FINAL.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

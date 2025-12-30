@@ -14,6 +14,8 @@ import {
   IconClock,
   IconBulb,
   IconDeviceLaptop,
+  IconApi,
+  IconHexagons,
 } from '@tabler/icons-react';
 
 type Props = WrapperProps<typeof CategoryType>;
@@ -30,6 +32,8 @@ const iconMap: {[key: string]: React.ComponentType<any>} = {
   clock: IconClock,
   bulb: IconBulb,
   desktop: IconDeviceLaptop,
+  api: IconApi,
+  modules: IconHexagons,
 };
 
 export default function CategoryWrapper(props: Props): ReactNode {

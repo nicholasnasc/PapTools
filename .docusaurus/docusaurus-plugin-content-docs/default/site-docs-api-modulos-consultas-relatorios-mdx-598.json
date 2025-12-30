@@ -1,0 +1,15 @@
+{
+  "id": "api/modulos/Consultas/relatorios",
+  "title": "relatorios",
+  "description": "",
+  "source": "@site/docs/api/modulos/Consultas/relatorios.mdx",
+  "sourceDirName": "api/modulos/Consultas",
+  "slug": "/api/modulos/Consultas/relatorios",
+  "permalink": "/api/modulos/Consultas/relatorios",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nicholasnasc/documentation/edit/main/docs/docs/api/modulos/Consultas/relatorios.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

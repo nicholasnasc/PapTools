@@ -1,0 +1,169 @@
+{
+  "/__docusaurus/debug-5ff": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/config-5ba": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/content-a2b": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    },
+    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
+  },
+  "/__docusaurus/debug/globalData-c3c": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/metadata-156": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/registry-88c": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/routes-000": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/ai-cookbook-0e3": {
+    "__comp": "__comp---site-src-pages-ai-cookbook-tsx-076-8a6",
+    "__context": {
+      "plugin": "plugin---ai-cookbooka-74-41e"
+    },
+    "config": "config---ai-cookbook-5-e-9-53b"
+  },
+  "/changelog-839": {
+    "__comp": "__comp---site-src-pages-changelog-js-5-cb-ec9",
+    "__context": {
+      "plugin": "plugin---ai-cookbooka-74-41e"
+    },
+    "config": "config---ai-cookbook-5-e-9-53b"
+  },
+  "/index-legacy-7f1": {
+    "__comp": "__comp---site-src-pages-index-legacy-jsaf-2-706",
+    "__context": {
+      "plugin": "plugin---ai-cookbooka-74-41e"
+    },
+    "config": "config---ai-cookbook-5-e-9-53b"
+  },
+  "/search-822": {
+    "__comp": "__comp---theme-search-page-1-a-4-d6f",
+    "__context": {
+      "plugin": "plugin---search-138-688"
+    }
+  },
+  "/ai-cookbook-4b4": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---ai-cookbook-1-c-8-6bf"
+    }
+  },
+  "/ai-cookbook-5c0": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---ai-cookbookeab-b5f"
+  },
+  "/ai-cookbook-b32": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/ai-cookbook/-7ea": {
+    "__comp": "__comp---site-src-components-cookbook-doc-item-880-765",
+    "content": "content---ai-cookbook-538-b07"
+  },
+  "/-2e1": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---ai-cookbooka-74-41e"
+    },
+    "config": "config---ai-cookbook-5-e-9-53b"
+  },
+  "/-8c6": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---aba-d70"
+    }
+  },
+  "/-277": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---22-d-307"
+  },
+  "/-5d5": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/api/modulos/Consultas/-dfd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---api-modulos-consultas-d-83-716"
+  },
+  "/api/modulos/Provedores/-c1a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---api-modulos-provedores-354-c13"
+  },
+  "/api/modulos/Relatorios/-885": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---api-modulos-relatorios-aea-d59"
+  },
+  "/api/modulos/Rotas/-7f2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---api-modulos-rotas-a-63-588"
+  },
+  "/api/modulos/Rotas/lista-392": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---api-modulos-rotas-lista-343-f2a"
+  },
+  "/banco/provedores/tabela-360": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---banco-provedores-tabelac-2-e-d98"
+  },
+  "/CORRECAO_DATA_ATUALIZACAO-1e3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---correcao-data-atualizacao-5-a-9-fcf"
+  },
+  "/introducao/-566": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---introducao-5-fb-76d"
+  },
+  "/PROVEDORES_CAMPO_CIDADE_NOME-d1e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---provedores-campo-cidade-nom-ed-5-a-59d"
+  },
+  "/PROVEDORES_CIDADE_IMPLEMENTACAO-de6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---provedores-cidade-implementaca-od-65-8af"
+  },
+  "/PROVEDORES_DEBUG_CAMPO_OPERADORA-465": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---provedores-debug-campo-operadora-874-5da"
+  },
+  "/PROVEDORES_DEBUG_GUIDE-6ba": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---provedores-debug-guide-432-f9c"
+  },
+  "/PROVEDORES_FIX_CONVERSAO_IBGE-516": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---provedores-fix-conversao-ibg-ed-0-f-e20"
+  },
+  "/PROVEDORES_FIX_TIPO_INT_IMPORTACOES-50d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---provedores-fix-tipo-int-importacoes-872-e90"
+  },
+  "/PROVEDORES_TROUBLESHOOTING_REGIONAL_UF-048": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---provedores-troubleshooting-regional-uf-0-ad-418"
+  }
+}

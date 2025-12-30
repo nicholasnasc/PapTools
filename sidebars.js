@@ -1,47 +1,59 @@
+const { type } = require("os");
+
 module.exports = {
   documentation: [
     {
       type: 'doc',
-      id: 'introducao/visao-geral',
-      label: 'Introdução',
-      customProps: { icon: 'bulb' },
+      id: 'introducao/index',
+      label: 'Bem-vindo à PapTools',
+      customProps: { icon: 'rocket' },
     },
-    {
-      type: 'category',
-      label: 'Comece aqui',
-      customProps: { icon: 'home' },
-      items: [
-        'index',
-        'guia-rapido',
-        'conceitos-fundamentais',
-      ],
-    },
-
     {
       type: 'category',
       label: 'Documentação',
       customProps: { icon: 'book' },
       items: [
+    {
+      type: 'category',
+      label: 'API',
+      customProps: { icon: 'api' },
+      items: [
         {
           type: 'category',
-          label: 'Backend',
-          customProps: { icon: 'code' },
+          label: 'Módulos',
+          customProps: { icon: 'modules' },
           items: [
-            'backend/nodejs',
-            'backend/python',
-          ],
-        },
-        {
-          type: 'category',
-          label: 'Frontend',
-          customProps: { icon: 'code' },
-          items: [
-            'frontend/react',
-            'frontend/vue',
+            'api/modulos/Consultas/consultas',
+            'api/modulos/Rotas/rotas',
+            'api/modulos/Rotas/lista',
+            'api/modulos/Relatorios/relatorios',
+            'api/modulos/Provedores/provedores',
           ],
         },
       ],
     },
+    {
+      type: 'category',
+      label: 'Banco de Dados',
+      customProps: { icon: 'database' },
+      items: [
+        {
+          type: 'category',
+          label: 'Módulos',
+          customProps: { icon: 'modules' },
+          items: [
+            'api/modulos/Consultas/consultas',
+            'api/modulos/Rotas/rotas',
+            'api/modulos/Rotas/lista',
+            'api/modulos/Relatorios/relatorios',
+            'api/modulos/Provedores/provedores',
+          ],
+        },
+      ],
+    },
+      ],
+    },
+    
     {
       type: 'category',
       label: 'Links Úteis',

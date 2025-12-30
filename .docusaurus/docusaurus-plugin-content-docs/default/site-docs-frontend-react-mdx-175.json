@@ -1,0 +1,24 @@
+{
+  "id": "frontend/react",
+  "title": "react",
+  "description": "",
+  "source": "@site/docs/frontend/react.mdx",
+  "sourceDirName": "frontend",
+  "slug": "/frontend/react",
+  "permalink": "/frontend/react",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nicholasnasc/documentation/edit/main/docs/docs/frontend/react.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "documentation",
+  "previous": {
+    "title": "relatorios",
+    "permalink": "/api/modulos/Relatorios/"
+  },
+  "next": {
+    "title": "vue",
+    "permalink": "/frontend/vue"
+  }
+}

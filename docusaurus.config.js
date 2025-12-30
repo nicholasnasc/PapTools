@@ -23,7 +23,9 @@ module.exports = async function createConfigAsync() {
         },
       },
     ],
-    clientModules: ['./src/client/remote-amplitude-analytics.js'],
+    clientModules: [
+      './src/client/remote-amplitude-analytics.js',
+    ],
     themeConfig: {
       colorMode: {
         defaultMode: 'dark',
@@ -132,6 +134,21 @@ module.exports = async function createConfigAsync() {
       },
     ],
     plugins: [
+      function basicAuthPlugin() {
+        return {
+          name: 'basic-auth-plugin',
+          configureExpress(app) {
+            const expected = Buffer.from('PapTools_development:development_papT00ls').toString('base64');
+            app.use((req, res, next) => {
+              const header = req.headers.authorization || '';
+              const isValid = header === `Basic ${expected}`;
+              if (isValid) return next();
+              res.setHeader('WWW-Authenticate', 'Basic realm="Restricted"');
+              return res.status(401).send('Authentication required');
+            });
+          },
+        };
+      },
       function preloadFontPlugin() {
         return {
           name: 'preload-font-plugin',

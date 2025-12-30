@@ -1,0 +1,24 @@
+{
+  "id": "api/modulos/Consultas/Relatorios/relatorios",
+  "title": "Implementação do Sistema de Provedores Locais",
+  "description": "📋 Resumo",
+  "source": "@site/docs/api/modulos/Consultas/Relatorios/relatorios.mdx",
+  "sourceDirName": "api/modulos/Consultas/Relatorios",
+  "slug": "/api/modulos/Consultas/Relatorios/",
+  "permalink": "/api/modulos/Consultas/Relatorios/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nicholasnasc/documentation/edit/main/docs/docs/api/modulos/Consultas/Relatorios/relatorios.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "documentation",
+  "previous": {
+    "title": "Bem-vindo à PapTools",
+    "permalink": "/introducao/"
+  },
+  "next": {
+    "title": "react",
+    "permalink": "/frontend/react"
+  }
+}

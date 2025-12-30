@@ -1,0 +1,15 @@
+{
+  "id": "backend/VERIFICACAO_APP",
+  "title": "✅ Verificação e Correções - paptools-app (Mobile)",
+  "description": "Status: ✅ CORRETO E MELHORADO",
+  "source": "@site/docs/backend/VERIFICACAO_APP.md",
+  "sourceDirName": "backend",
+  "slug": "/backend/VERIFICACAO_APP",
+  "permalink": "/backend/VERIFICACAO_APP",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nicholasnasc/documentation/edit/main/docs/docs/backend/VERIFICACAO_APP.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

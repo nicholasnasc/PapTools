@@ -1,0 +1,15 @@
+{
+  "id": "CORRECAO_DATA_ATUALIZACAO",
+  "title": "Correção: dataAtualizacao vindo como NULL",
+  "description": "Problema",
+  "source": "@site/docs/CORRECAO_DATA_ATUALIZACAO.md",
+  "sourceDirName": ".",
+  "slug": "/CORRECAO_DATA_ATUALIZACAO",
+  "permalink": "/CORRECAO_DATA_ATUALIZACAO",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nicholasnasc/documentation/edit/main/docs/docs/CORRECAO_DATA_ATUALIZACAO.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

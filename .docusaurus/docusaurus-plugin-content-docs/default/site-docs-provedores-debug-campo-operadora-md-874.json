@@ -1,0 +1,15 @@
+{
+  "id": "PROVEDORES_DEBUG_CAMPO_OPERADORA",
+  "title": "Debug - Campo Operadora não Aparece para \"Satisfeito com a Operadora Atual\"",
+  "description": "🔴 Problema Relatado",
+  "source": "@site/docs/PROVEDORES_DEBUG_CAMPO_OPERADORA.md",
+  "sourceDirName": ".",
+  "slug": "/PROVEDORES_DEBUG_CAMPO_OPERADORA",
+  "permalink": "/PROVEDORES_DEBUG_CAMPO_OPERADORA",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nicholasnasc/documentation/edit/main/docs/docs/PROVEDORES_DEBUG_CAMPO_OPERADORA.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

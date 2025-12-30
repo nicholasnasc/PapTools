@@ -1,0 +1,15 @@
+{
+  "id": "backend/CHECKLIST_PROVEDORES",
+  "title": "✅ Checklist de Implementação - Sistema de Provedores",
+  "description": "📦 Backend - SQL Server",
+  "source": "@site/docs/backend/CHECKLIST_PROVEDORES.md",
+  "sourceDirName": "backend",
+  "slug": "/backend/CHECKLIST_PROVEDORES",
+  "permalink": "/backend/CHECKLIST_PROVEDORES",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nicholasnasc/documentation/edit/main/docs/docs/backend/CHECKLIST_PROVEDORES.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

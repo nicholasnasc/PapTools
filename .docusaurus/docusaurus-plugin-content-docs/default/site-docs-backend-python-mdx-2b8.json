@@ -1,0 +1,15 @@
+{
+  "id": "backend/python",
+  "title": "python",
+  "description": "",
+  "source": "@site/docs/backend/python.mdx",
+  "sourceDirName": "backend",
+  "slug": "/backend/python",
+  "permalink": "/backend/python",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nicholasnasc/documentation/edit/main/docs/docs/backend/python.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

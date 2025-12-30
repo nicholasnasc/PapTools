@@ -1,0 +1,15 @@
+{
+  "id": "PROVEDORES_CAMPO_CIDADE_NOME",
+  "title": "Implementação Campo \"Cidade\" (Nome Legível) - Sistema de Provedores",
+  "description": "📋 Solicitação",
+  "source": "@site/docs/PROVEDORES_CAMPO_CIDADE_NOME.md",
+  "sourceDirName": ".",
+  "slug": "/PROVEDORES_CAMPO_CIDADE_NOME",
+  "permalink": "/PROVEDORES_CAMPO_CIDADE_NOME",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nicholasnasc/documentation/edit/main/docs/docs/PROVEDORES_CAMPO_CIDADE_NOME.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

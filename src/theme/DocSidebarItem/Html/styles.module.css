@@ -1,0 +1,16 @@
+.staticTitle {
+  padding: 0.75rem 0.5rem 0.25rem;
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--ifm-color-gray-600);
+  margin-top: 1rem;
+  border-bottom: 1px solid var(--ifm-color-emphasis-200);
+  margin-bottom: 0.5rem;
+}
+
+[data-theme='dark'] .staticTitle {
+  color: var(--ifm-color-gray-400);
+  border-bottom-color: var(--ifm-color-emphasis-300);
+}

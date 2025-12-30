@@ -1,0 +1,15 @@
+{
+  "id": "backend/CORRECOES_PROVEDORES",
+  "title": "Correções e Melhorias - Sistema de Provedores",
+  "description": "📋 Resumo",
+  "source": "@site/docs/backend/CORRECOES_PROVEDORES.md",
+  "sourceDirName": "backend",
+  "slug": "/backend/CORRECOES_PROVEDORES",
+  "permalink": "/backend/CORRECOES_PROVEDORES",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nicholasnasc/documentation/edit/main/docs/docs/backend/CORRECOES_PROVEDORES.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

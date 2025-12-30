@@ -1,0 +1,26 @@
+{
+  "id": "api/modulos/Consultas/consultas",
+  "title": "Consultas",
+  "description": "Conteudo em construção.",
+  "source": "@site/docs/api/modulos/Consultas/consultas.mdx",
+  "sourceDirName": "api/modulos/Consultas",
+  "slug": "/api/modulos/Consultas/",
+  "permalink": "/api/modulos/Consultas/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nicholasnasc/documentation/edit/main/docs/docs/api/modulos/Consultas/consultas.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Consultas"
+  },
+  "sidebar": "documentation",
+  "previous": {
+    "title": "Bem-vindo à PapTools",
+    "permalink": "/introducao/"
+  },
+  "next": {
+    "title": "Rotas",
+    "permalink": "/api/modulos/Rotas/"
+  }
+}

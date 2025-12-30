@@ -1,0 +1,15 @@
+{
+  "id": "backend/TESTE_PROVEDORES_RAPIDO",
+  "title": "🧪 GUIA RÁPIDO DE TESTE - Sistema de Provedores",
+  "description": "⚡ Teste Rápido (5 minutos)",
+  "source": "@site/docs/backend/TESTE_PROVEDORES_RAPIDO.md",
+  "sourceDirName": "backend",
+  "slug": "/backend/TESTE_PROVEDORES_RAPIDO",
+  "permalink": "/backend/TESTE_PROVEDORES_RAPIDO",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nicholasnasc/documentation/edit/main/docs/docs/backend/TESTE_PROVEDORES_RAPIDO.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

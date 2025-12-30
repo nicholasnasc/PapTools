@@ -82,8 +82,21 @@ function cookbookIndexPlugin(context, options) {
       const { setGlobalData } = actions;
       const recipes = scanRecipes(docsDir);
       
+      // Normalize data shape expected by UI (items[])
+      const items = recipes.map((r) => ({
+        id: r.id,
+        title: r.title,
+        description: r.description,
+        tags: r.tags,
+        // Best-effort permalink; UI will prefer real doc meta when available
+        permalink: `/${routeBasePath}/${r.id === 'index' ? '' : r.id}`.replace(/\/$/, '/'),
+      }));
+
       setGlobalData({
+        // keep legacy key for debugging
         recipes,
+        // primary key consumed by UI
+        items,
         routeBasePath,
       });
     },

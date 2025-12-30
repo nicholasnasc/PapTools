@@ -1,0 +1,15 @@
+{
+  "id": "PROVEDORES_CIDADE_IMPLEMENTACAO",
+  "title": "Implementação de Cidade (IBGE) no Sistema de Provedores",
+  "description": "✅ Status da Implementação",
+  "source": "@site/docs/PROVEDORES_CIDADE_IMPLEMENTACAO.md",
+  "sourceDirName": ".",
+  "slug": "/PROVEDORES_CIDADE_IMPLEMENTACAO",
+  "permalink": "/PROVEDORES_CIDADE_IMPLEMENTACAO",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nicholasnasc/documentation/edit/main/docs/docs/PROVEDORES_CIDADE_IMPLEMENTACAO.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

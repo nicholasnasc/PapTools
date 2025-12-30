@@ -1,0 +1,15 @@
+{
+  "id": "backend/PROVEDORES_README",
+  "title": "Provedores Module",
+  "description": "Overview",
+  "source": "@site/docs/backend/PROVEDORES_README.md",
+  "sourceDirName": "backend",
+  "slug": "/backend/PROVEDORES_README",
+  "permalink": "/backend/PROVEDORES_README",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nicholasnasc/documentation/edit/main/docs/docs/backend/PROVEDORES_README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,15 @@
+{
+  "id": "backend/CORRECAO_PROVEDORES",
+  "title": "Correção: Erro \"Could not find stored procedure 'dbo.provedor_portal'\"",
+  "description": "🔍 Problema Identificado",
+  "source": "@site/docs/backend/CORRECAO_PROVEDORES.md",
+  "sourceDirName": "backend",
+  "slug": "/backend/CORRECAO_PROVEDORES",
+  "permalink": "/backend/CORRECAO_PROVEDORES",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nicholasnasc/documentation/edit/main/docs/docs/backend/CORRECAO_PROVEDORES.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,15 @@
+{
+  "id": "backend/TESTE_PROVEDORES",
+  "title": "🧪 GUIA DE TESTES - Sistema de Provedores",
+  "description": "📋 Status da Implementação",
+  "source": "@site/docs/backend/TESTE_PROVEDORES.md",
+  "sourceDirName": "backend",
+  "slug": "/backend/TESTE_PROVEDORES",
+  "permalink": "/backend/TESTE_PROVEDORES",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nicholasnasc/documentation/edit/main/docs/docs/backend/TESTE_PROVEDORES.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

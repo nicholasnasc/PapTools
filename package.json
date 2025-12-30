@@ -7,7 +7,9 @@
     "start": "docusaurus start",
     "build": "docusaurus build",
     "serve": "docusaurus serve",
-    "deploy": "docusaurus deploy"
+    "deploy": "docusaurus deploy",
+    "sync-public": "node scripts/sync-public.js",
+    "vercel-build": "docusaurus build && npm run sync-public && next build"
   },
   "browserslist": {
     "production": [
@@ -46,6 +48,7 @@
     "path": "^0.12.7",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
+    "next": "^15.0.0",
     "react-icons": "^5.5.0",
     "react-markdown": "^10.1.0",
     "react-player": "^2.6.0",

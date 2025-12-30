@@ -1,0 +1,17 @@
+{
+  "id": "banco/provedores/tabela",
+  "title": "Tabela de Provedores",
+  "description": "",
+  "source": "@site/docs/banco/provedores/tabela.mdx",
+  "sourceDirName": "banco/provedores",
+  "slug": "/banco/provedores/tabela",
+  "permalink": "/banco/provedores/tabela",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nicholasnasc/documentation/edit/main/docs/docs/banco/provedores/tabela.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Tabela de Provedores"
+  }
+}

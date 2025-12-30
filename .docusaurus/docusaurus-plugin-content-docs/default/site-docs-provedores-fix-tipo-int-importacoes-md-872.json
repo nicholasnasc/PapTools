@@ -1,0 +1,15 @@
+{
+  "id": "PROVEDORES_FIX_TIPO_INT_IMPORTACOES",
+  "title": "Correção - Erro de Tipo em Histórico de Importações",
+  "description": "❌ Problema",
+  "source": "@site/docs/PROVEDORES_FIX_TIPO_INT_IMPORTACOES.md",
+  "sourceDirName": ".",
+  "slug": "/PROVEDORES_FIX_TIPO_INT_IMPORTACOES",
+  "permalink": "/PROVEDORES_FIX_TIPO_INT_IMPORTACOES",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nicholasnasc/documentation/edit/main/docs/docs/PROVEDORES_FIX_TIPO_INT_IMPORTACOES.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktemporal_documentation=self.webpackChunktemporal_documentation||[]).push([[634],{192:(t,e,n)=>{n.r(e),n.d(e,{default:()=>a});n(6540);var o=n(6347),u=n(4848);function a(){return(0,u.jsx)(o.rd,{to:"/introducao/"})}}}]);

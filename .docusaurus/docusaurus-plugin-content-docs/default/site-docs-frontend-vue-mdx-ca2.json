@@ -1,0 +1,20 @@
+{
+  "id": "frontend/vue",
+  "title": "vue",
+  "description": "",
+  "source": "@site/docs/frontend/vue.mdx",
+  "sourceDirName": "frontend",
+  "slug": "/frontend/vue",
+  "permalink": "/frontend/vue",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nicholasnasc/documentation/edit/main/docs/docs/frontend/vue.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "documentation",
+  "previous": {
+    "title": "react",
+    "permalink": "/frontend/react"
+  }
+}

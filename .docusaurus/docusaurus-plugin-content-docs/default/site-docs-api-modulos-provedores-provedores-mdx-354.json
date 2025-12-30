@@ -1,0 +1,22 @@
+{
+  "id": "api/modulos/Provedores/provedores",
+  "title": "Provedores",
+  "description": "",
+  "source": "@site/docs/api/modulos/Provedores/provedores.mdx",
+  "sourceDirName": "api/modulos/Provedores",
+  "slug": "/api/modulos/Provedores/",
+  "permalink": "/api/modulos/Provedores/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nicholasnasc/documentation/edit/main/docs/docs/api/modulos/Provedores/provedores.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Provedores"
+  },
+  "sidebar": "documentation",
+  "previous": {
+    "title": "Relatorios",
+    "permalink": "/api/modulos/Relatorios/"
+  }
+}

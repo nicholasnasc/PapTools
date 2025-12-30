@@ -1,0 +1,15 @@
+{
+  "id": "PROVEDORES_TROUBLESHOOTING_REGIONAL_UF",
+  "title": "Troubleshooting - Provedores não encontrados (Regional SP2 + UF CE)",
+  "description": "🔴 Problema Identificado",
+  "source": "@site/docs/PROVEDORES_TROUBLESHOOTING_REGIONAL_UF.md",
+  "sourceDirName": ".",
+  "slug": "/PROVEDORES_TROUBLESHOOTING_REGIONAL_UF",
+  "permalink": "/PROVEDORES_TROUBLESHOOTING_REGIONAL_UF",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nicholasnasc/documentation/edit/main/docs/docs/PROVEDORES_TROUBLESHOOTING_REGIONAL_UF.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

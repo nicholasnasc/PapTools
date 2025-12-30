@@ -1,0 +1,26 @@
+{
+  "id": "api/modulos/Rotas/rotas",
+  "title": "Rotas",
+  "description": "Conteudo em construção.",
+  "source": "@site/docs/api/modulos/Rotas/rotas.mdx",
+  "sourceDirName": "api/modulos/Rotas",
+  "slug": "/api/modulos/Rotas/",
+  "permalink": "/api/modulos/Rotas/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nicholasnasc/documentation/edit/main/docs/docs/api/modulos/Rotas/rotas.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Rotas"
+  },
+  "sidebar": "documentation",
+  "previous": {
+    "title": "Consultas",
+    "permalink": "/api/modulos/Consultas/"
+  },
+  "next": {
+    "title": "Lista de Rotas",
+    "permalink": "/api/modulos/Rotas/lista"
+  }
+}

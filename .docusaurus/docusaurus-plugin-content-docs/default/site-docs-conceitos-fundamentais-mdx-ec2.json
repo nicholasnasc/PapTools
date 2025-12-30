@@ -1,0 +1,24 @@
+{
+  "id": "conceitos-fundamentais",
+  "title": "conceitos-fundamentais",
+  "description": "",
+  "source": "@site/docs/conceitos-fundamentais.mdx",
+  "sourceDirName": ".",
+  "slug": "/conceitos-fundamentais",
+  "permalink": "/conceitos-fundamentais",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nicholasnasc/documentation/edit/main/docs/docs/conceitos-fundamentais.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "documentation",
+  "previous": {
+    "title": "guia-rapido",
+    "permalink": "/guia-rapido"
+  },
+  "next": {
+    "title": "nodejs",
+    "permalink": "/backend/nodejs"
+  }
+}

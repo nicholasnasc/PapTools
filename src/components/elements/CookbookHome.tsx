@@ -75,7 +75,10 @@ export default function CookbookHome() {
   const dataAny = usePluginData('cookbook-index') as any;
   const allDocsData = useAllDocsData();
   const cookbookDocs =
-    allDocsData?.cookbook?.versions?.find((version: any) => version?.isLast) ?? allDocsData?.cookbook?.versions?.[0];
+    allDocsData?.['ai-cookbook']?.versions?.find((version: any) => version?.isLast) ??
+    allDocsData?.['ai-cookbook']?.versions?.[0] ??
+    allDocsData?.cookbook?.versions?.find((version: any) => version?.isLast) ??
+    allDocsData?.cookbook?.versions?.[0];
 
   const docsById = React.useMemo(() => {
     const map = new Map<string, DocMeta>();
@@ -103,7 +106,18 @@ export default function CookbookHome() {
   );
 
   if (items.length === 0) {
-    throw new Error('CookbookHome: no items found by cookbook-index plugin (check server logs for [cookbook-index]).');
+    return (
+      <section className={clsx('cookbook--centered', styles.page)}>
+        <div className={styles.inner}>
+          <header data-testid="cookbook-hero" className={styles.hero} aria-label="Cookbook overview">
+            <h1 className={styles.heroTitle}>AI Cookbook</h1>
+            <p className={styles.heroBlurb}>
+              Nenhum item disponível no momento. Volte em breve.
+            </p>
+          </header>
+        </div>
+      </section>
+    );
   }
 
   const normalizeTimestamp = React.useCallback((value: unknown): number | undefined => {

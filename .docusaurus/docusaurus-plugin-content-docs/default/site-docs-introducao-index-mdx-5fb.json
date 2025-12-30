@@ -1,0 +1,20 @@
+{
+  "id": "introducao/index",
+  "title": "PapTools",
+  "description": "Uma plataforma para gerenciamento de serviços da Claro SA.",
+  "source": "@site/docs/introducao/index.mdx",
+  "sourceDirName": "introducao",
+  "slug": "/introducao/",
+  "permalink": "/introducao/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nicholasnasc/documentation/edit/main/docs/docs/introducao/index.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "documentation",
+  "next": {
+    "title": "Consultas",
+    "permalink": "/api/modulos/Consultas/"
+  }
+}

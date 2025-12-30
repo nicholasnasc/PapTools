@@ -1,0 +1,15 @@
+{
+  "id": "backend/RELATORIO_PROVEDORES",
+  "title": "RELATORIO_PROVEDORES",
+  "description": "",
+  "source": "@site/docs/backend/RELATORIO_PROVEDORES.md",
+  "sourceDirName": "backend",
+  "slug": "/backend/RELATORIO_PROVEDORES",
+  "permalink": "/backend/RELATORIO_PROVEDORES",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nicholasnasc/documentation/edit/main/docs/docs/backend/RELATORIO_PROVEDORES.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

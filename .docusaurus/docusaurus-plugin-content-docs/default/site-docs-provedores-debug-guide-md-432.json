@@ -1,0 +1,15 @@
+{
+  "id": "PROVEDORES_DEBUG_GUIDE",
+  "title": "Guia de Debug - Sistema de Provedores",
+  "description": "Problema Identificado",
+  "source": "@site/docs/PROVEDORES_DEBUG_GUIDE.md",
+  "sourceDirName": ".",
+  "slug": "/PROVEDORES_DEBUG_GUIDE",
+  "permalink": "/PROVEDORES_DEBUG_GUIDE",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nicholasnasc/documentation/edit/main/docs/docs/PROVEDORES_DEBUG_GUIDE.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

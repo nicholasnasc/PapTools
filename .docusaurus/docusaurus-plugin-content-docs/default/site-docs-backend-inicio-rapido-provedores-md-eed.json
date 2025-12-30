@@ -1,0 +1,15 @@
+{
+  "id": "backend/INICIO_RAPIDO_PROVEDORES",
+  "title": "🚀 INÍCIO RÁPIDO - Sistema de Provedores",
+  "description": "Status: ✅ 100% IMPLEMENTADO E PRONTO PARA USO",
+  "source": "@site/docs/backend/INICIO_RAPIDO_PROVEDORES.md",
+  "sourceDirName": "backend",
+  "slug": "/backend/INICIO_RAPIDO_PROVEDORES",
+  "permalink": "/backend/INICIO_RAPIDO_PROVEDORES",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nicholasnasc/documentation/edit/main/docs/docs/backend/INICIO_RAPIDO_PROVEDORES.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

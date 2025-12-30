@@ -1,0 +1,15 @@
+{
+  "id": "backend/GUIA_RAPIDO_PROVEDORES",
+  "title": "🎯 RESUMO EXECUTIVO - Sistema de Provedores",
+  "description": "✅ O QUE JÁ ESTÁ PRONTO",
+  "source": "@site/docs/backend/GUIA_RAPIDO_PROVEDORES.md",
+  "sourceDirName": "backend",
+  "slug": "/backend/GUIA_RAPIDO_PROVEDORES",
+  "permalink": "/backend/GUIA_RAPIDO_PROVEDORES",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nicholasnasc/documentation/edit/main/docs/docs/backend/GUIA_RAPIDO_PROVEDORES.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

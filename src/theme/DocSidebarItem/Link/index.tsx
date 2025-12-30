@@ -17,6 +17,7 @@ import {
   IconDeviceLaptop,
   IconBrandAndroid,
   IconBrandApple,
+  IconApi,
 
 } from '@tabler/icons-react';
 
@@ -37,6 +38,7 @@ const iconMap = {
   desktop: IconDeviceLaptop,
   android: IconBrandAndroid,
   apple: IconBrandApple,
+  api: IconApi,
 };
 
 export default function LinkWrapper(props: Props): ReactNode {

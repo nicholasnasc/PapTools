@@ -1,0 +1,18 @@
+{
+  "id": "backend/VERIFICACAO_APP",
+  "title": "PapTools",
+  "description": "De porta em porta",
+  "source": "@site/docs/backend/VERIFICACAO_APP.mdx",
+  "sourceDirName": "backend",
+  "slug": "/backend/VERIFICACAO_APP",
+  "permalink": "/backend/VERIFICACAO_APP",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nicholasnasc/documentation/edit/main/docs/docs/backend/VERIFICACAO_APP.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "PapTools",
+    "description": "De porta em porta"
+  }
+}

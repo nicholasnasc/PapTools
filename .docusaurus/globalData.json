@@ -1,0 +1,139 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/",
+          "mainDocId": "introducao/index",
+          "docs": [
+            {
+              "id": "api/modulos/Consultas/consultas",
+              "path": "/api/modulos/Consultas/",
+              "sidebar": "documentation"
+            },
+            {
+              "id": "api/modulos/Provedores/provedores",
+              "path": "/api/modulos/Provedores/",
+              "sidebar": "documentation"
+            },
+            {
+              "id": "api/modulos/Relatorios/relatorios",
+              "path": "/api/modulos/Relatorios/",
+              "sidebar": "documentation"
+            },
+            {
+              "id": "api/modulos/Rotas/lista",
+              "path": "/api/modulos/Rotas/lista",
+              "sidebar": "documentation"
+            },
+            {
+              "id": "api/modulos/Rotas/rotas",
+              "path": "/api/modulos/Rotas/",
+              "sidebar": "documentation"
+            },
+            {
+              "id": "banco/provedores/tabela",
+              "path": "/banco/provedores/tabela"
+            },
+            {
+              "id": "CORRECAO_DATA_ATUALIZACAO",
+              "path": "/CORRECAO_DATA_ATUALIZACAO"
+            },
+            {
+              "id": "introducao/index",
+              "path": "/introducao/",
+              "sidebar": "documentation"
+            },
+            {
+              "id": "PROVEDORES_CAMPO_CIDADE_NOME",
+              "path": "/PROVEDORES_CAMPO_CIDADE_NOME"
+            },
+            {
+              "id": "PROVEDORES_CIDADE_IMPLEMENTACAO",
+              "path": "/PROVEDORES_CIDADE_IMPLEMENTACAO"
+            },
+            {
+              "id": "PROVEDORES_DEBUG_CAMPO_OPERADORA",
+              "path": "/PROVEDORES_DEBUG_CAMPO_OPERADORA"
+            },
+            {
+              "id": "PROVEDORES_DEBUG_GUIDE",
+              "path": "/PROVEDORES_DEBUG_GUIDE"
+            },
+            {
+              "id": "PROVEDORES_FIX_CONVERSAO_IBGE",
+              "path": "/PROVEDORES_FIX_CONVERSAO_IBGE"
+            },
+            {
+              "id": "PROVEDORES_FIX_TIPO_INT_IMPORTACOES",
+              "path": "/PROVEDORES_FIX_TIPO_INT_IMPORTACOES"
+            },
+            {
+              "id": "PROVEDORES_TROUBLESHOOTING_REGIONAL_UF",
+              "path": "/PROVEDORES_TROUBLESHOOTING_REGIONAL_UF"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "documentation": {
+              "link": {
+                "path": "/introducao/",
+                "label": "Bem-vindo à PapTools"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    },
+    "ai-cookbook": {
+      "path": "/ai-cookbook",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/ai-cookbook",
+          "mainDocId": "index",
+          "docs": [
+            {
+              "id": "index",
+              "path": "/ai-cookbook/"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {}
+        }
+      ],
+      "breadcrumbs": true
+    }
+  },
+  "cookbook-index": {
+    "default": {
+      "recipes": [
+        {
+          "id": "index",
+          "title": "Receitas de IA - PapTools",
+          "description": "Receitas e soluções inteligentes para o PapTools",
+          "tags": [],
+          "difficulty": "intermediate",
+          "category": "general"
+        }
+      ],
+      "items": [
+        {
+          "id": "index",
+          "title": "Receitas de IA - PapTools",
+          "description": "Receitas e soluções inteligentes para o PapTools",
+          "tags": [],
+          "permalink": "/ai-cookbook/"
+        }
+      ],
+      "routeBasePath": "ai-cookbook"
+    }
+  }
+}

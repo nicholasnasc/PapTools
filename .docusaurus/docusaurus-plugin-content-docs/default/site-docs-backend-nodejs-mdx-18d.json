@@ -1,0 +1,15 @@
+{
+  "id": "backend/nodejs",
+  "title": "nodejs",
+  "description": "",
+  "source": "@site/docs/backend/nodejs.mdx",
+  "sourceDirName": "backend",
+  "slug": "/backend/nodejs",
+  "permalink": "/backend/nodejs",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nicholasnasc/documentation/edit/main/docs/docs/backend/nodejs.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

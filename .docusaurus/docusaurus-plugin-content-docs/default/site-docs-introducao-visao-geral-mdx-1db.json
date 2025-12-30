@@ -1,0 +1,20 @@
+{
+  "id": "introducao/visao-geral",
+  "title": "visao-geral",
+  "description": "IconBubble",
+  "source": "@site/docs/introducao/visao-geral.mdx",
+  "sourceDirName": "introducao",
+  "slug": "/introducao/visao-geral",
+  "permalink": "/introducao/visao-geral",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nicholasnasc/documentation/edit/main/docs/docs/introducao/visao-geral.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "documentation",
+  "next": {
+    "title": "PapTools",
+    "permalink": "/"
+  }
+}
